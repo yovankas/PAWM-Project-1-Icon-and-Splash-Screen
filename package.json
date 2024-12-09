@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@expo/vector-icons": "^14.0.2",
+    "expo": "^52.0.17",
+    "expo-dev-client": "^5.0.5",
+    "expo-font": "~13.0.1",
+    "expo-linear-gradient": "~14.0.1",
+    "expo-splash-screen": "~0.29.16",
+    "react": "18.3.1",
+    "react-native": "0.76.3"
+  },
+  "name": "projects",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "expo run:android",
+    "ios": "expo run:ios"
+  }
+}

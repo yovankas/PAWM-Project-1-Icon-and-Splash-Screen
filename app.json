@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Vocalab",
+    "slug": "VocaLab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/icon.png",
+    "packagerOpts": {
+      "hostType": "lan"
+    },
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anonymous.VocaLab"
+    },
+    "scheme": "Vocalab",
+    "plugins": [
+      "expo-font",
+      "expo-dev-client"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "ce64c69f-6530-4a5c-8659-445dd92f6b6e"
+      }
+    },
+    "owner": "yovankaasm"
+  }
+}
